@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "RandomNumbers", "RandomNumbers.exe", "{1204C1AF-6A4C-4065-9298-5C4A2CE2FE1D}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\Łukasz\source\repos\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.exe
+		RemoteMachine = DESKTOP-M9DKVSF
+		StartingDirectory = C:\Users\Łukasz\source\repos\RandomNumbers\RandomNumbers\bin\Debug
+		Environment = Domyślne
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1204C1AF-6A4C-4065-9298-5C4A2CE2FE1D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53C0EB83-A9D1-42E3-BE2D-18DBA9B5CD07}
+	EndGlobalSection
+EndGlobal

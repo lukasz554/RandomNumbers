@@ -1,0 +1,10 @@
+c:\Users\Łukasz\source\repos\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+c:\Users\Łukasz\source\repos\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.exe
+c:\Users\Łukasz\source\repos\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.pdb
+c:\Users\Łukasz\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.Form1.resources
+c:\Users\Łukasz\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.Properties.Resources.resources
+c:\Users\Łukasz\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csproj.GenerateResource.cache
+c:\Users\Łukasz\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csproj.CoreCompileInputs.cache
+c:\Users\Łukasz\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.exe
+c:\Users\Łukasz\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.pdb
+c:\Users\Łukasz\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csprojAssemblyReference.cache
